@@ -9,7 +9,7 @@ class LoginForms(forms.Form):
     widget= forms.TextInput(
       attrs = {
         "class": "form-control",
-        "placeholder": "Ana Caroline"
+        "placeholder": "Ex.: Ana Caroline"
       }
     )
   )
@@ -34,7 +34,7 @@ class CadastroForms(forms.Form):
     widget= forms.TextInput(
       attrs= {
         "class": "form-control",
-        "placeholder":"Ana Caroline Branco"
+        "placeholder":"Ex.: Ana Caroline Branco"
       }
     )
   )
