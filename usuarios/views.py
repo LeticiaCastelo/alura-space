@@ -36,9 +36,7 @@ def cadastro(request):
     form = CadastroForms(request.POST) # Vai pegar todas as infos do form e criar um form novo.
     
     if form.is_valid():
-      if form["senha_1"].value() != form["senha_2"].value():
-        messages.rros(request, "Senhas não são identicas.")
-        return redirect('cadastro')
+      
       
       nome = form["nome_cadastro"].value()
       email = form["email"].value()
