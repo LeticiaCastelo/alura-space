@@ -1,6 +1,6 @@
 # 🪐 Alura Space 
 
-O Alura Space é um blog de fotos do espaço sideral, onde os entusiastas do espaço podem explorar e apreciar imagens deslumbrantes do universo. As fotos são organizadas de forma atraente e acompanhadas de descrições informativas. 
+O Alura Space é um blog que celebra a beleza do espaço sideral, oferecendo aos entusiastas a oportunidade de explorar imagens fascinantes do universo. As fotos são cuidadosamente organizadas e acompanhadas de descrições detalhadas, proporcionando uma experiência informativa e visualmente encantadora.
 
 ### 📝 Descrição
 Este projeto foi desenvolvido durante uma Formação sobre desenvolvimento de aplicações com Django, oferecida pela Alura. 
